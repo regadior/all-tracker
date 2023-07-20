@@ -23,7 +23,7 @@
 
 ## ℹ️ About
 
-This project consists of a web made with `Reactjs` in frontend and `Spring Boot` in backend , using the client-server architecture. The main idea of ​​this website is to track the price of amazon products.
+This project consists of a web made with `Nextjs` in frontend and `Spring Boot` in backend , using the client-server architecture. The main idea of ​​this website is to track the price of amazon products.
 
 ## ⚒ General-App-Features
 - Branching strategy using *git-flow*
